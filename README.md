@@ -3,5 +3,5 @@ After the ASRmageddon hit I quickly realised the script provided by Microsoft wo
 
 ## Deploying
 To deploy to intune simply use the FixShortcuts.intunewin using the below Install Cmd line.
-```%windir%\sysnative\windowspowershell\v1.0\powershell.exe -executionPolicy bypass -windowstyle hidden -file .\FixShorctus.ps1 -url https://github.com/schenardie/ASRmageddon/blob/main/AppList.json```
+```%windir%\sysnative\windowspowershell\v1.0\powershell.exe -executionPolicy bypass -windowstyle hidden -file .\FixShorctus.ps1 -url https://raw.githubusercontent.com/schenardie/ASRmageddon/main/AppList.json```
 For detection you can use the Detect.ps1 script #Note this script is hardcoded to my repository, if you plan to use your own please udpate it to match the one used on the install cmd line (-url)#
