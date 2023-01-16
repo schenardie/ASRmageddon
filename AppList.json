@@ -40,6 +40,9 @@
     {"Key": "Cisco Jabber", "Value": "CiscoJabber.exe"},
     {"Key": "Microsoft Teams", "Value": "msteams.exe"},
     {"Key": "PuTTY", "Value": "putty.exe"},
-    {"Key": "wordpad", "Value": "WORDPAD.EXE"},
-    {"Key": "1Password", "Value": "1password.EXE"}
+    {"Key": "wordpad", "Value": "WORDPAD.exe"},
+    {"Key": "1Password", "Value": "1password.exe"},
+    {"Key": "AutoHotKey", "Value": "AutoHotKey.exe"},
+    {"Key": "Brave", "Value": "brave.exe"},
+    {"Key": "Calibre", "Value": "calibre.exe"},    
     ]    
