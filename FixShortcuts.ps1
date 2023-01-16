@@ -25,7 +25,7 @@
 # v1 script to add deleted shortcuts back for common application.
 # Credits: https://github.com/InsideTechnologiesSrl/DefenderBug/blob/main/W11-RestoreLinks.ps1
 
-Param([Parameter(Mandatory=$true)][String[]]$URL)
+Param([Parameter(Mandatory=$false)][String[]]$URL="https://raw.githubusercontent.com/schenardie/ASRmageddon/main/AppList.json")
 
 $Programs = Invoke-RestMethod -Uri "$URL"
 $Programs = $Programs | Select-Object -Skip 1
