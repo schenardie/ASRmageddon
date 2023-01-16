@@ -1,4 +1,5 @@
-{
+[
+    {
     "Azure Data Studio":  "azuredatastudio.exe",
     "Elgato StreamDeck":  "StreamDeck.exe",
     "PowerShell 7 (x64)":  "pwsh.exe",
@@ -33,3 +34,4 @@
     "Parallels Client":  "APPServerClient.exe",
     "Visual Studio Code":  "code.exe"
 }
+]
