@@ -27,7 +27,7 @@
 
 Param([Parameter(Mandatory=$false)][String[]]$URL="https://raw.githubusercontent.com/schenardie/ASRmageddon/main/AppList.json")
 
-$Programs = Invoke-RestMethod -Uri "$URL"
+$Programs = Invoke-RestMethod -Uri "$URL" -Headers @{"Cache-Control"="no-cache"}
 $Programs = $Programs | Select-Object -Skip 1
 $LogFileName = "ShortcutRepairs.log";
 $LogFilePath = "$env:temp\$LogFileName";
