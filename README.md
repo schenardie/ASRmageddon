@@ -6,4 +6,4 @@ To deploy to intune simply use the FixShortcuts.intunewin using the below Instal
 ```%windir%\sysnative\windowspowershell\v1.0\powershell.exe -executionPolicy bypass -windowstyle hidden -file .\FixShortcuts.ps1 -url https://raw.githubusercontent.com/schenardie/ASRmageddon/main/AppList.json```
 For detection you can use the Detect.ps1 script 
 
-**Note** this script is hardcoded to my repository, if you plan to use your own please udpate it to match the one used on the install cmd line (-url)
+**Note** this script is hardcoded to my repository, if you plan to use your own please udpate the detection script it to match the one used on the install cmd line (-url) and make sure you always update the first entry by running ```Get-Date -Format u```
