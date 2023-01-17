@@ -23,9 +23,9 @@
 #>
 
 
-Param([Parameter(Mandatory=$false)][String[]]$URL="https://raw.githubusercontent.com/schenardie/ASRmageddon/main/AppList.json")
+Param([Parameter(Mandatory = $false)][String[]]$URL = "https://raw.githubusercontent.com/schenardie/ASRmageddon/main/AppList.json")
 
-$Programs = Invoke-RestMethod -Uri "$URL" -Headers @{"Cache-Control"="no-cache"}
+$Programs = Invoke-RestMethod -Uri "$URL" -Headers @{"Cache-Control" = "no-cache" }
 $Programs = $Programs | Select-Object -Skip 1
 $LogFileName = "ShortcutRepairs.log";
 $LogFilePath = "$env:temp\$LogFileName";
@@ -50,8 +50,8 @@ Function LogErrorAndConsole($message) {
 Function CopyAclFromOwningDir($path) {
     $base_path = Split-Path -Path $path
     $acl = Get-Acl $base_path
-	$group = New-Object System.Security.Principal.NTAccount("Builtin", "Administrators")
-	$acl.SetOwner($group)
+    $group = New-Object System.Security.Principal.NTAccount("Builtin", "Administrators")
+    $acl.SetOwner($group)
     Set-Acl $path $acl
 }
 
@@ -68,52 +68,35 @@ if (!($p.IsInRole([System.Security.Principal.WindowsBuiltInRole]::Administrator)
 # Check for shortcuts in Start Menu, if program is available and the shortcut isn't... Then recreate the shortcut
 $success = 0
 $failures = 0
-LogAndConsole "Enumerating installed software under HKLM"
+LogAndConsole "Enumerating installed software against Shortcut list"
 $programs.GetEnumerator() | ForEach-Object {
-
-   
-
     try {
-        if (Test-Path -Path $($_.Value)
-        {   
-            
-        }
-
-		$apppath = $null
-		$target = $null
-        try { $apppath = Get-ItemPropertyValue $reg_path -Name "Path" -ErrorAction SilentlyContinue } catch {}
-		if ($apppath -ne $null)
-		{
-			$target = $apppath + "\" + $_.Value
-		}
-		else
-		{
-			try { $target = Get-ItemPropertyValue $reg_path -Name "(default)" -ErrorAction SilentlyContinue } catch {}
-		}
-        if ($target -ne $null) {
-            if (-not (Test-Path -Path "$env:PROGRAMDATA\Microsoft\Windows\Start Menu\Programs\$($_.Key).lnk")) {
-                LogAndConsole ("Shortcut for {0} not found in \Start Menu\, creating it now." -f $_.Key)
-				$target = $target.Trim("`"")
-                $shortcut_path = "$env:PROGRAMDATA\Microsoft\Windows\Start Menu\Programs\$($_.Key).lnk"
-                $description = $_.Key
-                $workingdirectory = (Get-ChildItem $target).DirectoryName
-                $WshShell = New-Object -ComObject WScript.Shell
-                $Shortcut = $WshShell.CreateShortcut($shortcut_path)
-                $Shortcut.TargetPath = $target
-                $Shortcut.Description = $description
-                $shortcut.WorkingDirectory = $workingdirectory
-                $Shortcut.Save()
-                Start-Sleep -Seconds 1			# Let the LNK file be backed to disk
-                LogAndConsole "Copying ACL from owning folder"
-                CopyAclFromOwningDir $shortcut_path
-                $success += 1
+        if ((Test-Path -Path $($_.TargetPath)) -and (-not (Test-Path -Path $($_.Fullname))   ))
+            { 
+                    $appname = split-path $($_.TargetPath) -leaf
+                    LogAndConsole ("Shortcut for {0} not found in Start Menu, creating it now." -f $appname)
+                    $target = "$($_.TargetPath)"
+                    $shortcut_path = "$($_.Fullname)"
+                    $description = "$($_.Description)"
+                    $workingdirectory = "$($_.WorkingDirectory)"
+                    $WshShell = New-Object -ComObject WScript.Shell
+                    $Shortcut = $WshShell.CreateShortcut($shortcut_path)
+                    $Shortcut.TargetPath = $target
+                    $Shortcut.Description = $description
+                    $shortcut.WorkingDirectory = $workingdirectory
+                    $Shortcut.Save()
+                    Start-Sleep -Seconds 1			# Let the LNK file be backed to disk
+                    LogAndConsole "Copying ACL from owning folder"
+                    CopyAclFromOwningDir $shortcut_path
+                    $success += 1
+                         
             }
+
+        }
+        catch {
+            $failures += 1
+            LogErrorAndConsole "Exception: $_"
         }
     }
-    catch {
-        $failures += 1
-        LogErrorAndConsole "Exception: $_"
-    }
-}
 
-LogAndConsole "Finished with $failures failures and $success successes"
+    LogAndConsole "Finished with $failures failures and $success successes"

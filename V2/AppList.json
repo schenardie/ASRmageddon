@@ -1,0 +1,1557 @@
+[
+    {
+      "Fullname": "2023-01-16 21:40:30Z",
+      "Description": "",
+      "TargetPath": "",
+      "WorkingDirectory": ""
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\1Password\\1Password.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files\\1Password\\app\\8\\1Password.exe",
+      "WorkingDirectory": ""
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\7-Zip\\7-Zip File Manager.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files\\7-Zip\\7zFM.exe",
+      "WorkingDirectory": ""
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\8x8 Inc\\8x8 Work (managed).lnk",
+      "Description": "8x8 Work",
+      "TargetPath": "C:\\Program Files\\8x8 Inc\\8x8 Work\\8x8 Work.exe",
+      "WorkingDirectory": "C:\\Program Files\\8x8 Inc.\\8x8 Work\\"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Adobe Acrobat Distiller.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files\\Adobe\\Acrobat DC\\Acrobat\\acrodist.exe",
+      "WorkingDirectory": ""
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Adobe Acrobat.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files\\Adobe\\Acrobat DC\\Acrobat\\Acrobat.exe",
+      "WorkingDirectory": ""
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Adobe Creative Cloud.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files\\Adobe\\Adobe Creative Cloud\\ACC\\Creative Cloud.exe",
+      "WorkingDirectory": ""
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Adobe DNG Converter.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files\\Adobe\\Adobe DNG Converter\\Adobe DNG Converter.exe",
+      "WorkingDirectory": "C:\\Program Files\\Adobe\\Adobe DNG Converter"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Advanced IP Scanner v2\\Advanced IP Scanner.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files (x86)\\Advanced IP Scanner\\advanced_ip_scanner.exe",
+      "WorkingDirectory": ""
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\AirParrot 3\\AirParrot 3.lnk",
+      "Description": "AirParrot 3",
+      "TargetPath": "C:\\Program Files\\AirParrot 3\\AirParrot3.exe",
+      "WorkingDirectory": "C:\\Program Files\\AirParrot 3\\"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\AJA\\AJA ControlPanel.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files\\AJA\\windows\\Applications\\AJA ControlPanel.exe",
+      "WorkingDirectory": ""
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\AJA\\AJA ControlRoom.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files\\AJA\\windows\\Applications\\AJA ControlRoom.exe",
+      "WorkingDirectory": "C:\\Program Files\\AJA\\windows\\Applications\\"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\AJA\\AJA Multi-Channel Config.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files\\AJA\\windows\\Applications\\AJA Multi-Channel Config.exe",
+      "WorkingDirectory": ""
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\AJA\\AJA NMOS.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files\\AJA\\windows\\Applications\\ajanmos.exe",
+      "WorkingDirectory": ""
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\AJA\\AJA System Test.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files\\AJA\\windows\\Applications\\AJA System Test.exe",
+      "WorkingDirectory": ""
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Amazon WorkSpaces\\Amazon WorkSpaces.lnk",
+      "Description": "Amazon WorkSpaces",
+      "TargetPath": "C:\\Program Files\\Amazon Web Services, Inc\\Amazon WorkSpaces\\workspaces.exe",
+      "WorkingDirectory": "C:\\Program Files\\Amazon Web Services, Inc\\Amazon WorkSpaces\\"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Anaconda3 (64-bit)\\Anaconda Navigator (Anaconda3).lnk",
+      "Description": "Anaconda Navigator (Anaconda3)",
+      "TargetPath": "C:\\ProgramData\\Anaconda3\\pythonw.exe",
+      "WorkingDirectory": "C:\\Users\\Public\\Documents"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Anaconda3 (64-bit)\\Jupyter Notebook (Anaconda3).lnk",
+      "Description": "Jupyter Notebook (Anaconda3)",
+      "TargetPath": "C:\\ProgramData\\Anaconda3\\python.exe",
+      "WorkingDirectory": "%HOMEPATH%"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Anaconda3 (64-bit)\\Reset Spyder Settings (Anaconda3).lnk",
+      "Description": "Reset Spyder Settings (Anaconda3)",
+      "TargetPath": "C:\\ProgramData\\Anaconda3\\python.exe",
+      "WorkingDirectory": "C:\\Windows\\system32\\config\\systemprofile"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Anaconda3 (64-bit)\\Spyder (Anaconda3).lnk",
+      "Description": "Spyder (Anaconda3)",
+      "TargetPath": "C:\\ProgramData\\Anaconda3\\pythonw.exe",
+      "WorkingDirectory": "C:\\Users\\Public\\Documents\\Python Scripts"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Audacity.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files\\Audacity\\Audacity.exe",
+      "WorkingDirectory": "C:\\Program Files\\Audacity"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\AutoHotkey\\AutoHotkey.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files\\AutoHotkey\\AutoHotkey.exe",
+      "WorkingDirectory": ""
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\AutoHotkey\\Convert .ahk to .exe.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files\\AutoHotkey\\Compiler\\Ahk2Exe.exe",
+      "WorkingDirectory": ""
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Automatic Email Manager\\Automatic Email Manager.lnk",
+      "Description": "Gain productivity with your emails",
+      "TargetPath": "C:\\Program Files\\Namtuk\\Automatic Email Manager\\aemui.exe",
+      "WorkingDirectory": "C:\\Program Files\\Namtuk\\Automatic Email Manager"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\AWS VPN Client\\AWS VPN Client.lnk",
+      "Description": "Client application for AWS Client VPN service",
+      "TargetPath": "C:\\Program Files\\Amazon\\AWS VPN Client\\AWSVPNClient.exe",
+      "WorkingDirectory": "C:\\Program Files\\Amazon\\AWS VPN Client\\"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Axure\\Axure RP 10.lnk",
+      "Description": "Wireframes, Prototypes, Documentation",
+      "TargetPath": "C:\\Program Files (x86)\\Axure\\Axure RP 10\\AxureRP10.exe",
+      "WorkingDirectory": "C:\\Program Files (x86)\\Axure\\Axure RP 10\\"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Azure Cosmos DB Emulator\\Azure Cosmos DB Emulator.lnk",
+      "Description": "Azure Cosmos DB Emulator",
+      "TargetPath": "C:\\Program Files\\Azure Cosmos DB Emulator\\Microsoft.Azure.Cosmos.Emulator.exe",
+      "WorkingDirectory": ""
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Balsamiq Wireframes.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files\\Balsamiq\\Balsamiq Wireframes\\BalsamiqWireframes.exe",
+      "WorkingDirectory": "C:\\Program Files\\Balsamiq\\Balsamiq Wireframes"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Barco\\ClickShare Launcher\\ClickShare Launcher.lnk",
+      "Description": "ClickShare Launcher",
+      "TargetPath": "C:\\Program Files (x86)\\Barco\\ClickShare Extension Pack\\Launcher\\clicksharelauncher.exe",
+      "WorkingDirectory": "C:\\Program Files (x86)\\Barco\\ClickShare Extension Pack\\Launcher\\"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Barco\\ClickShare.lnk",
+      "Description": "ClickShare client program",
+      "TargetPath": "C:\\ClickShareApp\\ClickShare\\ClickShare.exe",
+      "WorkingDirectory": ""
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Beyond Compare 4\\Beyond Compare 4.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files\\Beyond Compare 4\\BCompare.exe",
+      "WorkingDirectory": "C:\\Program Files\\Beyond Compare 4\\"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Bitwarden.lnk",
+      "Description": "A secure and free password manager for all of your devices.",
+      "TargetPath": "C:\\Program Files\\Bitwarden\\Bitwarden.exe",
+      "WorkingDirectory": "C:\\Program Files\\Bitwarden"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Box Drive.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Windows\\Installer\\{2597456D-2FAC-436F-B61C-67552653350D}\\boxicon_1.exe",
+      "WorkingDirectory": "C:\\Program Files\\Box\\Box\\"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Boxcryptor\\Boxcryptor.lnk",
+      "Description": "Boxcryptor",
+      "TargetPath": "C:\\Program Files (x86)\\Boxcryptor\\Boxcryptor.exe",
+      "WorkingDirectory": "C:\\Program Files (x86)\\Boxcryptor\\"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Brave.lnk",
+      "Description": "Access the Internet",
+      "TargetPath": "C:\\Program Files\\BraveSoftware\\Brave-Browser\\Application\\brave.exe",
+      "WorkingDirectory": "C:\\Program Files\\BraveSoftware\\Brave-Browser\\Application"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\BrightSign\\BrightAuthor\\BrightAuthor 5.0.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files (x86)\\BrightSign\\BrightAuthor 5.0\\BrightAuthor.exe",
+      "WorkingDirectory": ""
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Brother\\Brother iPrint&Scan.lnk",
+      "Description": "Brother iPrint&Scan",
+      "TargetPath": "C:\\Program Files (x86)\\Brother\\iPrint&Scan\\Brother iPrint&Scan.exe",
+      "WorkingDirectory": "C:\\Program Files (x86)\\Brother\\iPrint&Scan\\"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Burp Suite Professional\\Burp Suite Professional Uninstaller.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files\\BurpSuitePro\\uninstall.exe",
+      "WorkingDirectory": "C:\\Program Files\\BurpSuitePro"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Burp Suite Professional\\Burp Suite Professional.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files\\BurpSuitePro\\BurpSuitePro.exe",
+      "WorkingDirectory": "C:\\Program Files\\BurpSuitePro"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\calibre 64bit - E-book Management\\calibre 64bit - E-book management.lnk",
+      "Description": "Manage your e-book collection, read or edit your e-books and download news",
+      "TargetPath": "C:\\Program Files\\Calibre2\\calibre.exe",
+      "WorkingDirectory": ""
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\calibre 64bit - E-book Management\\E-book viewer 64bit.lnk",
+      "Description": "Viewer for all the major e-book formats",
+      "TargetPath": "C:\\Program Files\\Calibre2\\ebook-viewer.exe",
+      "WorkingDirectory": ""
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\calibre 64bit - E-book Management\\Edit E-book 64bit.lnk",
+      "Description": "Edit e-books",
+      "TargetPath": "C:\\Program Files\\Calibre2\\ebook-edit.exe",
+      "WorkingDirectory": ""
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\calibre 64bit - E-book Management\\LRF viewer 64bit.lnk",
+      "Description": "Viewer for LRF format e-books",
+      "TargetPath": "C:\\Program Files\\Calibre2\\lrfviewer.exe",
+      "WorkingDirectory": ""
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Check Point\\Check Point Endpoint Security VPN.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files (x86)\\CheckPoint\\Endpoint Connect\\TrGUI.exe",
+      "WorkingDirectory": ""
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Cisco Jabber\\Cisco Jabber Problem Report.lnk",
+      "Description": "Cisco Jabber Problem Report",
+      "TargetPath": "C:\\Program Files (x86)\\Cisco Systems\\Cisco Jabber\\CiscoJabberPrt.exe",
+      "WorkingDirectory": ""
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Cisco Jabber\\Cisco Jabber.lnk",
+      "Description": "Cisco Jabber",
+      "TargetPath": "C:\\Program Files (x86)\\Cisco Systems\\Cisco Jabber\\CiscoJabber.exe",
+      "WorkingDirectory": ""
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Cisco Webex Meetings\\Cisco Webex Meetings.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files (x86)\\Webex\\Webex\\Applications\\ptoneclk.exe",
+      "WorkingDirectory": "C:\\Program Files (x86)\\Webex\\Webex\\Applications\\"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Citrix Workspace.lnk",
+      "Description": "Select applications you want to use on your computer",
+      "TargetPath": "C:\\Program Files (x86)\\Citrix\\ICA Client\\SelfServicePlugin\\SelfService.exe",
+      "WorkingDirectory": "C:\\Program Files (x86)\\Citrix\\ICA Client\\SelfServicePlugin\\"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\CONNECTION Client\\CONNECTION Client\\Bentley Health Check Tool.lnk",
+      "Description": "Bentley Health Check Tool",
+      "TargetPath": "C:\\Program Files\\Common Files\\Bentley Shared\\CONNECTION Client\\LicService\\Bentley.Licensing.HealthCheck.exe",
+      "WorkingDirectory": ""
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\CONNECTION Client\\CONNECTION Client\\Bentley Licensing Tool.lnk",
+      "Description": "Bentley Licensing Tool",
+      "TargetPath": "C:\\Program Files\\Common Files\\Bentley Shared\\CONNECTION Client\\LicService\\Bentley.Licensing.LicenseTool.exe",
+      "WorkingDirectory": ""
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\CONNECTION Client\\CONNECTION Client\\Bentley Log Collector.lnk",
+      "Description": "Bentley Log Collector",
+      "TargetPath": "C:\\Program Files\\Common Files\\Bentley Shared\\CONNECTION Client\\LogCollector.exe",
+      "WorkingDirectory": ""
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\CONNECTION Client\\CONNECTION Client\\CONNECTION Client.lnk",
+      "Description": "Bentley provides software for the lifecycle of the worlds infrastructure.",
+      "TargetPath": "C:\\Program Files\\Common Files\\Bentley Shared\\CONNECTION Client\\Bentley.Connect.Client.exe",
+      "WorkingDirectory": "C:\\Program Files\\Common Files\\Bentley Shared\\CONNECTION Client\\"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\CopyFilenames Pro\\Configure CopyFilenames Pro.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files\\CopyFilenames Pro\\CopyPathPrefs.exe",
+      "WorkingDirectory": "C:\\Program Files\\CopyFilenames Pro"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\DashBoard\\DashBoard.lnk",
+      "Description": "",
+      "TargetPath": "C:\\DashBoard\\DashBoard.exe",
+      "WorkingDirectory": "c:\\DashBoard"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\DashBoard\\Uninstall.lnk",
+      "Description": "",
+      "TargetPath": "C:\\DashBoard\\uninst.exe",
+      "WorkingDirectory": "c:\\DashBoard"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\DBS4.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files (x86)\\DBS4\\DBS4.exe",
+      "WorkingDirectory": "C:\\Program Files (x86)\\DBS4"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Dell Audio\\Dell Audio.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files\\Realtek\\Audio\\HDA\\RtkNGUI64.exe",
+      "WorkingDirectory": "C:\\Program Files\\Realtek\\Audio\\HDA"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Dell\\Command Update\\Dell Command Update.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files (x86)\\Dell\\CommandUpdate\\DellCommandUpdate.exe",
+      "WorkingDirectory": "C:\\Program Files (x86)\\Dell\\CommandUpdate\\"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Dropbox\\Dropbox.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files (x86)\\Dropbox\\Client\\Dropbox.exe",
+      "WorkingDirectory": "C:\\Program Files (x86)\\Dropbox\\Client"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\DYMO\\DYMO Connect\\DYMO Connect Web Service.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files (x86)\\DYMO\\DYMO Connect\\DYMO.WebApi.Win.Host.exe",
+      "WorkingDirectory": "C:\\Program Files (x86)\\DYMO\\DYMO Connect\\"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\DYMO\\DYMO Connect\\DYMO Connect.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files (x86)\\DYMO\\DYMO Connect\\DYMOConnect.exe",
+      "WorkingDirectory": "C:\\Program Files (x86)\\DYMO\\DYMO Connect\\"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Efofex Software\\Efofex MultiDocs.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files (x86)\\Efofex\\bin\\FXMultiDocs.exe",
+      "WorkingDirectory": "C:\\Program Files (x86)\\Efofex\\bin"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Efofex Software\\FX Draw.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files (x86)\\Efofex\\bin\\FXDraw.exe",
+      "WorkingDirectory": "C:\\Program Files (x86)\\Efofex\\bin"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Efofex Software\\FX Equation.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files (x86)\\Efofex\\bin\\FXEquation.exe",
+      "WorkingDirectory": "C:\\Program Files (x86)\\Efofex\\bin"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Efofex Software\\FX Graph.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files (x86)\\Efofex\\bin\\FXGraph.exe",
+      "WorkingDirectory": "C:\\Program Files (x86)\\Efofex\\bin"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Efofex Software\\FX Stat.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files (x86)\\Efofex\\bin\\FXStat.exe",
+      "WorkingDirectory": "C:\\Program Files (x86)\\Efofex\\bin"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Egnyte Connect\\Egnyte Desktop App.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files (x86)\\Egnyte Connect\\EgnyteClient.exe",
+      "WorkingDirectory": "C:\\Program Files (x86)\\Egnyte Connect\\"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Epic Games Launcher.lnk",
+      "Description": "Launch the Epic Games Launcher",
+      "TargetPath": "C:\\Program Files (x86)\\Epic Games\\Launcher\\Portal\\Binaries\\Win32\\EpicGamesLauncher.exe",
+      "WorkingDirectory": "C:\\Program Files (x86)\\Epic Games\\"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Excel.lnk",
+      "Description": "Easily discover, visualize, and share insights from your data.",
+      "TargetPath": "C:\\Program Files\\Microsoft Office\\root\\Office16\\EXCEL.EXE",
+      "WorkingDirectory": ""
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\FileZilla FTP Client\\FileZilla.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files\\FileZilla FTP Client\\filezilla.exe",
+      "WorkingDirectory": "C:\\Program Files\\FileZilla FTP Client"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\FileZilla FTP Client\\Uninstall.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files\\FileZilla FTP Client\\uninstall.exe",
+      "WorkingDirectory": "C:\\Program Files\\FileZilla FTP Client"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Firefox Private Browsing.lnk",
+      "Description": "Firefox Private Browsing",
+      "TargetPath": "C:\\Program Files\\Mozilla Firefox\\private_browsing.exe",
+      "WorkingDirectory": "C:\\Program Files\\Mozilla Firefox"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Firefox.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files\\Mozilla Firefox\\firefox.exe",
+      "WorkingDirectory": "C:\\Program Files\\Mozilla Firefox"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Foxit PDF Reader\\Activate Plugins.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files (x86)\\Foxit Software\\Foxit PDF Reader\\Activation.exe",
+      "WorkingDirectory": ""
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Foxit PDF Reader\\Foxit PDF Reader.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files (x86)\\Foxit Software\\Foxit PDF Reader\\FoxitPDFReader.exe",
+      "WorkingDirectory": ""
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Ghostscript\\Ghostscript 10.00.0.LNK",
+      "Description": "",
+      "TargetPath": "C:\\Program Files\\gs\\gs10.00.0\\bin\\gswin64.exe",
+      "WorkingDirectory": "C:\\Program Files\\gs\\gs10.00.0"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Ghostscript\\Uninstall Ghostscript 10.00.0.LNK",
+      "Description": "",
+      "TargetPath": "C:\\Program Files\\gs\\gs10.00.0\\uninstgs.exe",
+      "WorkingDirectory": "C:\\Program Files\\gs\\gs10.00.0"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\GIMP 2.10.32.lnk",
+      "Description": "GIMP 2.10.32",
+      "TargetPath": "C:\\Program Files\\GIMP 2\\bin\\gimp-2.10.exe",
+      "WorkingDirectory": "%USERPROFILE%"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Git Extensions.lnk",
+      "Description": "Git Extensions",
+      "TargetPath": "C:\\Program Files (x86)\\GitExtensions\\GitExtensions.exe",
+      "WorkingDirectory": "C:\\Program Files (x86)\\GitExtensions\\"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Git\\Git Bash.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files\\Git\\git-bash.exe",
+      "WorkingDirectory": "%HOMEDRIVE%%HOMEPATH%"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Git\\Git CMD.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files\\Git\\git-cmd.exe",
+      "WorkingDirectory": "%HOMEDRIVE%%HOMEPATH%"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Git\\Git GUI.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files\\Git\\cmd\\git-gui.exe",
+      "WorkingDirectory": "%HOMEDRIVE%%HOMEPATH%"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Google Chrome.lnk",
+      "Description": "Access the Internet",
+      "TargetPath": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+      "WorkingDirectory": "C:\\Program Files\\Google\\Chrome\\Application"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Google Drive.lnk",
+      "Description": "Google Drive",
+      "TargetPath": "C:\\Program Files\\Google\\Drive File Stream\\68.0.2.0\\GoogleDriveFS.exe",
+      "WorkingDirectory": ""
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Google Earth Pro.lnk",
+      "Description": "Google Earth Pro",
+      "TargetPath": "C:\\Program Files\\Google\\Google Earth Pro\\client\\googleearth.exe",
+      "WorkingDirectory": "C:\\Program Files\\Google\\Google Earth Pro\\client\\"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Google Workspace Sync\\Add account for delegation.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files\\Google\\Google Apps Sync\\profileeditor.exe",
+      "WorkingDirectory": ""
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Google Workspace Sync\\Delete saved Google Workspace Sync passwords.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files\\Google\\Google Apps Sync\\profilepassworddelete.exe",
+      "WorkingDirectory": ""
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Google Workspace Sync\\Import data to Google Workspace Sync.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files\\Google\\Google Apps Sync\\profileeditor.exe",
+      "WorkingDirectory": ""
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Google Workspace Sync\\Set up a Google Workspace Sync user.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files\\Google\\Google Apps Sync\\profileeditor.exe",
+      "WorkingDirectory": ""
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Greenshot\\Greenshot.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files\\Greenshot\\Greenshot.exe",
+      "WorkingDirectory": "C:\\Program Files\\Greenshot"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Greenshot\\Uninstall Greenshot.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files\\Greenshot\\unins000.exe",
+      "WorkingDirectory": "C:\\Program Files\\Greenshot"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\HandBrake\\HandBrake.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files\\HandBrake\\HandBrake.exe",
+      "WorkingDirectory": "C:\\Program Files\\HandBrake\\doc"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\HandBrake\\Uninstall.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files\\HandBrake\\uninst.exe",
+      "WorkingDirectory": "C:\\Program Files\\HandBrake\\doc"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\IBM\\Aspera Connect.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files\\IBM\\Aspera Connect\\bin\\asperaconnect.exe",
+      "WorkingDirectory": "C:\\Program Files\\IBM\\Aspera Connect\\bin\\"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\ImageMagick 7.1.0 Q16-HDRI (64-bit)\\ImageMagick Display.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files\\ImageMagick-7.1.0-Q16-HDRI\\imdisplay.exe",
+      "WorkingDirectory": "C:\\Program Files\\ImageMagick-7.1.0-Q16-HDRI"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Insta360 Studio 2022\\Insta360 Studio 2022.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files\\Insta360 Studio 2022\\Insta360 Studio 2022.exe",
+      "WorkingDirectory": "C:\\Program Files\\Insta360 Studio 2022"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Jabra\\Jabra Direct.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files (x86)\\Jabra\\Direct6\\jabra-direct.exe",
+      "WorkingDirectory": ""
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Java\\About Java.lnk",
+      "Description": "View Java version information.",
+      "TargetPath": "C:\\Program Files (x86)\\Java\\jre1.8.0_351\\bin\\javacpl.exe",
+      "WorkingDirectory": ""
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Java\\Check For Updates.lnk",
+      "Description": "See if new Java updates are available.",
+      "TargetPath": "C:\\Program Files (x86)\\Java\\jre1.8.0_351\\bin\\javacpl.exe",
+      "WorkingDirectory": ""
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Java\\Configure Java.lnk",
+      "Description": "View or change Java settings.",
+      "TargetPath": "C:\\Program Files (x86)\\Java\\jre1.8.0_351\\bin\\javacpl.exe",
+      "WorkingDirectory": ""
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\JetBrains\\CLion 2022.2.4.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files (x86)\\JetBrains\\CLion 2022.2.4\\bin\\clion64.exe",
+      "WorkingDirectory": "C:\\Program Files (x86)\\JetBrains\\CLion 2022.2.4\\bin"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\JetBrains\\DataGrip 2022.2.3.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files (x86)\\JetBrains\\DataGrip 2022.2.3\\bin\\datagrip64.exe",
+      "WorkingDirectory": "C:\\Program Files (x86)\\JetBrains\\DataGrip 2022.2.3\\bin"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\JetBrains\\DataGrip 2022.2.5.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files (x86)\\JetBrains\\DataGrip 2022.2.5\\bin\\datagrip64.exe",
+      "WorkingDirectory": "C:\\Program Files (x86)\\JetBrains\\DataGrip 2022.2.5\\bin"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\JetBrains\\DataGrip 2022.3.1.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files (x86)\\JetBrains\\DataGrip 2022.3.1\\bin\\datagrip64.exe",
+      "WorkingDirectory": "C:\\Program Files (x86)\\JetBrains\\DataGrip 2022.3.1\\bin"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\JetBrains\\DataGrip 2022.3.2.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files (x86)\\JetBrains\\DataGrip 2022.3.2\\bin\\datagrip64.exe",
+      "WorkingDirectory": "C:\\Program Files (x86)\\JetBrains\\DataGrip 2022.3.2\\bin"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\JetBrains\\DataGrip 2022.3.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files (x86)\\JetBrains\\DataGrip 2022.3\\bin\\datagrip64.exe",
+      "WorkingDirectory": "C:\\Program Files (x86)\\JetBrains\\DataGrip 2022.3\\bin"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\JetBrains\\DataSpell 223.6160.11.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files (x86)\\JetBrains\\DataSpell 223.6160.11\\bin\\dataspell64.exe",
+      "WorkingDirectory": "C:\\Program Files (x86)\\JetBrains\\DataSpell 223.6160.11\\bin"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\JetBrains\\GoLand 2022.2.5.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files (x86)\\JetBrains\\GoLand 2022.2.5\\bin\\goland64.exe",
+      "WorkingDirectory": "C:\\Program Files (x86)\\JetBrains\\GoLand 2022.2.5\\bin"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\JetBrains\\GoLand 2022.3.1.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files (x86)\\JetBrains\\GoLand 2022.3.1\\bin\\goland64.exe",
+      "WorkingDirectory": "C:\\Program Files (x86)\\JetBrains\\GoLand 2022.3.1\\bin"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\JetBrains\\GoLand 2022.3.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files (x86)\\JetBrains\\GoLand 2022.3\\bin\\goland64.exe",
+      "WorkingDirectory": "C:\\Program Files (x86)\\JetBrains\\GoLand 2022.3\\bin"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\JetBrains\\IntelliJ IDEA 2022.3.1.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files (x86)\\JetBrains\\IntelliJ IDEA 2022.3.1\\bin\\idea64.exe",
+      "WorkingDirectory": "C:\\Program Files (x86)\\JetBrains\\IntelliJ IDEA 2022.3.1\\bin"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\JetBrains\\IntelliJ IDEA 2022.3.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files (x86)\\JetBrains\\IntelliJ IDEA 2022.3\\bin\\idea64.exe",
+      "WorkingDirectory": "C:\\Program Files (x86)\\JetBrains\\IntelliJ IDEA 2022.3\\bin"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\JetBrains\\IntelliJ IDEA Community Edition 2022.2.3.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files (x86)\\JetBrains\\IntelliJ IDEA Community Edition 2022.2.3\\bin\\idea64.exe",
+      "WorkingDirectory": "C:\\Program Files (x86)\\JetBrains\\IntelliJ IDEA Community Edition 2022.2.3\\bin"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\JetBrains\\IntelliJ IDEA Community Edition 2022.2.4.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files (x86)\\JetBrains\\IntelliJ IDEA Community Edition 2022.2.4\\bin\\idea64.exe",
+      "WorkingDirectory": "C:\\Program Files (x86)\\JetBrains\\IntelliJ IDEA Community Edition 2022.2.4\\bin"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\JetBrains\\IntelliJ IDEA Community Edition 2022.3.1.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files (x86)\\JetBrains\\IntelliJ IDEA Community Edition 2022.3.1\\bin\\idea64.exe",
+      "WorkingDirectory": "C:\\Program Files (x86)\\JetBrains\\IntelliJ IDEA Community Edition 2022.3.1\\bin"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\JetBrains\\IntelliJ IDEA Community Edition 2022.3.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files (x86)\\JetBrains\\IntelliJ IDEA Community Edition 2022.3\\bin\\idea64.exe",
+      "WorkingDirectory": "C:\\Program Files (x86)\\JetBrains\\IntelliJ IDEA Community Edition 2022.3\\bin"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\JetBrains\\JetBrains Rider 2022.3.1.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files (x86)\\JetBrains\\JetBrains Rider 2022.3.1\\bin\\rider64.exe",
+      "WorkingDirectory": "C:\\Program Files (x86)\\JetBrains\\JetBrains Rider 2022.3.1\\bin"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\JetBrains\\JetBrains Rider 2022.3.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files (x86)\\JetBrains\\JetBrains Rider 2022.3\\bin\\rider64.exe",
+      "WorkingDirectory": "C:\\Program Files (x86)\\JetBrains\\JetBrains Rider 2022.3\\bin"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\JetBrains\\PhpStorm 2022.2.3.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files (x86)\\JetBrains\\PhpStorm 2022.2.3\\bin\\phpstorm64.exe",
+      "WorkingDirectory": "C:\\Program Files (x86)\\JetBrains\\PhpStorm 2022.2.3\\bin"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\JetBrains\\PhpStorm 2022.2.4.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files (x86)\\JetBrains\\PhpStorm 2022.2.4\\bin\\phpstorm64.exe",
+      "WorkingDirectory": "C:\\Program Files (x86)\\JetBrains\\PhpStorm 2022.2.4\\bin"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\JetBrains\\PhpStorm 2022.3.1.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files (x86)\\JetBrains\\PhpStorm 2022.3.1\\bin\\phpstorm64.exe",
+      "WorkingDirectory": "C:\\Program Files (x86)\\JetBrains\\PhpStorm 2022.3.1\\bin"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\JetBrains\\PhpStorm 2022.3.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files (x86)\\JetBrains\\PhpStorm 2022.3\\bin\\phpstorm64.exe",
+      "WorkingDirectory": "C:\\Program Files (x86)\\JetBrains\\PhpStorm 2022.3\\bin"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\JetBrains\\PyCharm 2022.3.1.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files (x86)\\JetBrains\\PyCharm 2022.3.1\\bin\\pycharm64.exe",
+      "WorkingDirectory": "C:\\Program Files (x86)\\JetBrains\\PyCharm 2022.3.1\\bin"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\JetBrains\\PyCharm 2022.3.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files (x86)\\JetBrains\\PyCharm 2022.3\\bin\\pycharm64.exe",
+      "WorkingDirectory": "C:\\Program Files (x86)\\JetBrains\\PyCharm 2022.3\\bin"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\JetBrains\\RubyMine 2022.2.2.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files (x86)\\JetBrains\\RubyMine 2022.2.2\\bin\\rubymine64.exe",
+      "WorkingDirectory": "C:\\Program Files (x86)\\JetBrains\\RubyMine 2022.2.2\\bin"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\JetBrains\\RubyMine 2022.2.4.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files (x86)\\JetBrains\\RubyMine 2022.2.4\\bin\\rubymine64.exe",
+      "WorkingDirectory": "C:\\Program Files (x86)\\JetBrains\\RubyMine 2022.2.4\\bin"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\JetBrains\\RubyMine 2022.3.1.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files (x86)\\JetBrains\\RubyMine 2022.3.1\\bin\\rubymine64.exe",
+      "WorkingDirectory": "C:\\Program Files (x86)\\JetBrains\\RubyMine 2022.3.1\\bin"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\JetBrains\\RubyMine 2022.3.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files (x86)\\JetBrains\\RubyMine 2022.3\\bin\\rubymine64.exe",
+      "WorkingDirectory": "C:\\Program Files (x86)\\JetBrains\\RubyMine 2022.3\\bin"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\JetBrains\\WebStorm 2022.2.3.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files (x86)\\JetBrains\\WebStorm 2022.2.3\\bin\\webstorm64.exe",
+      "WorkingDirectory": "C:\\Program Files (x86)\\JetBrains\\WebStorm 2022.2.3\\bin"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\JetBrains\\WebStorm 2022.3.1.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files (x86)\\JetBrains\\WebStorm 2022.3.1\\bin\\webstorm64.exe",
+      "WorkingDirectory": "C:\\Program Files (x86)\\JetBrains\\WebStorm 2022.3.1\\bin"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\JetBrains\\WebStorm 2022.3.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files (x86)\\JetBrains\\WebStorm 2022.3\\bin\\webstorm64.exe",
+      "WorkingDirectory": "C:\\Program Files (x86)\\JetBrains\\WebStorm 2022.3\\bin"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\KeePass 2.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files\\KeePass Password Safe 2\\KeePass.exe",
+      "WorkingDirectory": "C:\\Program Files\\KeePass Password Safe 2"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Kleopatra.lnk",
+      "Description": "Run the Kleopatra key management tool.",
+      "TargetPath": "C:\\Program Files (x86)\\Gpg4win\\bin\\kleopatra.exe",
+      "WorkingDirectory": "%HOMEDRIVE%%HOMEPATH%"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\LastPass\\Import Passwords.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files (x86)\\LastPass\\pwimport.exe",
+      "WorkingDirectory": ""
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\lenovo\\System Update.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files (x86)\\Lenovo\\System Update\\tvsu.exe",
+      "WorkingDirectory": "C:\\Program Files (x86)\\Lenovo\\System Update"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\LibreOffice 7.4\\LibreOffice (Safe Mode).lnk",
+      "Description": "LibreOffice, the office productivity suite provided by The Document Foundation. See https://www.documentfoundation.org",
+      "TargetPath": "C:\\Program Files\\LibreOffice\\program\\soffice.exe",
+      "WorkingDirectory": "C:\\Program Files\\LibreOffice\\"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\LibreOffice 7.4\\LibreOffice Base.lnk",
+      "Description": "Manage databases, create queries and reports to track and manage your information by using Base.",
+      "TargetPath": "C:\\Program Files\\LibreOffice\\program\\sbase.exe",
+      "WorkingDirectory": "C:\\Program Files\\LibreOffice\\"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\LibreOffice 7.4\\LibreOffice Calc.lnk",
+      "Description": "Perform calculations, analyze information and manage lists in spreadsheets by using Calc.",
+      "TargetPath": "C:\\Program Files\\LibreOffice\\program\\scalc.exe",
+      "WorkingDirectory": "C:\\Program Files\\LibreOffice\\"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\LibreOffice 7.4\\LibreOffice Draw.lnk",
+      "Description": "Create and edit drawings, flow charts, and logos by using Draw.",
+      "TargetPath": "C:\\Program Files\\LibreOffice\\program\\sdraw.exe",
+      "WorkingDirectory": "C:\\Program Files\\LibreOffice\\"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\LibreOffice 7.4\\LibreOffice Impress.lnk",
+      "Description": "Create and edit presentations for slideshows, meeting and Web pages by using Impress.",
+      "TargetPath": "C:\\Program Files\\LibreOffice\\program\\simpress.exe",
+      "WorkingDirectory": "C:\\Program Files\\LibreOffice\\"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\LibreOffice 7.4\\LibreOffice Math.lnk",
+      "Description": "Create and edit scientific formulas and equations by using Math.",
+      "TargetPath": "C:\\Program Files\\LibreOffice\\program\\smath.exe",
+      "WorkingDirectory": "C:\\Program Files\\LibreOffice\\"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\LibreOffice 7.4\\LibreOffice Writer.lnk",
+      "Description": "Create and edit text and images in letters, reports, documents and Web pages by using Writer.",
+      "TargetPath": "C:\\Program Files\\LibreOffice\\program\\swriter.exe",
+      "WorkingDirectory": "C:\\Program Files\\LibreOffice\\"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\LibreOffice 7.4\\LibreOffice.lnk",
+      "Description": "LibreOffice, the office productivity suite provided by The Document Foundation. See https://www.documentfoundation.org",
+      "TargetPath": "C:\\Program Files\\LibreOffice\\program\\soffice.exe",
+      "WorkingDirectory": "C:\\Program Files\\LibreOffice\\"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\LiquidFiles\\LiquidFiles Agent.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files (x86)\\LiquidFiles Windows Agent\\LiquidFilesWindowsAgent.exe",
+      "WorkingDirectory": "C:\\Program Files (x86)\\LiquidFiles Windows Agent\\"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Little Green Button\\Little Green Button.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Windows\\Installer\\{99067DEC-D178-4046-B872-D2E339178F21}\\_0C6D7BFACCC37986C20B23.exe",
+      "WorkingDirectory": "C:\\Program Files (x86)\\Little Green Button\\lgb\\"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Logi\\Logi Bolt.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files\\Logi\\LogiBolt\\LogiBolt.exe",
+      "WorkingDirectory": "C:\\Program Files\\Logi\\LogiBolt"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Logi\\Logitech G HUB.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files\\LGHUB\\lghub.exe",
+      "WorkingDirectory": "C:\\Program Files\\LGHUB"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Logitech Camera Settings\\Logitech Camera Settings.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files (x86)\\Common Files\\LogiShrd\\LogiUCDpp\\LogiDPPApp.exe",
+      "WorkingDirectory": "C:\\Program Files (x86)\\Common Files\\LogiShrd\\LogiUCDpp"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Logitech\\Logitech Options.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files\\Logitech\\LogiOptions\\LogiOptions.exe",
+      "WorkingDirectory": ""
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\MarcEdit 7.5.lnk",
+      "Description": "MarcEdit 7.5",
+      "TargetPath": "C:\\Program Files\\Terry Reese\\MarcEdit 7.5\\MarcEdit.exe",
+      "WorkingDirectory": "C:\\Program Files\\Terry Reese\\MarcEdit 7.5\\"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\MarcEdit 7.5\\MarcEdit 7.5.lnk",
+      "Description": "MarcEdit 7.5",
+      "TargetPath": "C:\\Windows\\Installer\\{EB2E770B-785B-47F5-8026-015747E0FA71}\\MarcEdit.exe",
+      "WorkingDirectory": "C:\\Program Files\\Terry Reese\\MarcEdit 7.5\\"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Microsoft Azure Storage Explorer\\Microsoft Azure Storage Explorer.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files (x86)\\Microsoft Azure Storage Explorer\\StorageExplorer.exe",
+      "WorkingDirectory": "C:\\Program Files (x86)\\Microsoft Azure Storage Explorer"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Microsoft Edge.lnk",
+      "Description": "Browse the web",
+      "TargetPath": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+      "WorkingDirectory": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Microsoft Intune Management Extension\\Microsoft Intune Management Extension.lnk",
+      "Description": "Microsoft Intune Management Extension",
+      "TargetPath": "C:\\Program Files (x86)\\Microsoft Intune Management Extension\\AgentExecutor.exe",
+      "WorkingDirectory": "C:\\Program Files (x86)\\Microsoft Intune Management Extension\\"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Microsoft Office Tools\\Database Compare.lnk",
+      "Description": "Compare versions of an Access database.",
+      "TargetPath": "C:\\Program Files\\Microsoft Office\\root\\Client\\AppVLP.exe",
+      "WorkingDirectory": ""
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Microsoft Office Tools\\Office Language Preferences.lnk",
+      "Description": "Change the language preferences for Office applications.",
+      "TargetPath": "C:\\Program Files\\Microsoft Office\\root\\Office16\\SETLANG.EXE",
+      "WorkingDirectory": ""
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Microsoft Office Tools\\Spreadsheet Compare.lnk",
+      "Description": "Compare versions of an Excel workbook.",
+      "TargetPath": "C:\\Program Files\\Microsoft Office\\root\\Client\\AppVLP.exe",
+      "WorkingDirectory": ""
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Microsoft Office Tools\\Telemetry Dashboard for Office.lnk",
+      "Description": "Analyze and monitor Office solutions in your organization by using Office Telemetry Dashboard.",
+      "TargetPath": "C:\\Program Files\\Microsoft Office\\root\\Office16\\msotd.exe",
+      "WorkingDirectory": ""
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Microsoft Office Tools\\Telemetry Log for Office.lnk",
+      "Description": "View critical errors, compatibility issues and workaround information for your Office solutions by using Office Telemetry Log.",
+      "TargetPath": "C:\\Program Files\\Microsoft Office\\root\\Office16\\msoev.exe",
+      "WorkingDirectory": ""
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\MongoDB\\MongoDB Compass.lnk",
+      "Description": "The MongoDB GUI",
+      "TargetPath": "C:\\Program Files\\MongoDB Compass\\MongoDBCompass.exe",
+      "WorkingDirectory": "C:\\Program Files\\MongoDB Compass\\"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\MySQL\\MySQL Workbench 8.0 CE.lnk",
+      "Description": "MySQL Workbench Visual Database Designer",
+      "TargetPath": "C:\\Program Files\\MySQL\\MySQL Workbench 8.0 CE\\MySQLWorkbench.exe",
+      "WorkingDirectory": "C:\\Program Files\\MySQL\\MySQL Workbench 8.0 CE\\"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\NAP Locked down browser.lnk",
+      "Description": "NAP Locked down browser Application",
+      "TargetPath": "C:\\Program Files (x86)\\NAP Locked down browser\\NAP Locked down browser.exe",
+      "WorkingDirectory": "C:\\Program Files (x86)\\NAP Locked down browser\\"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Nitro Pro.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files\\Nitro\\Pro\\13\\NitroPDF.exe",
+      "WorkingDirectory": "C:\\Program Files\\Nitro\\Pro\\13\\"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Node.js\\Node.js.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files\\nodejs\\node.exe",
+      "WorkingDirectory": "C:\\Program Files\\nodejs\\"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Notepad++.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files\\Notepad++\\notepad++.exe",
+      "WorkingDirectory": "C:\\Program Files\\Notepad++"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\OBS Studio\\OBS Studio (64bit).lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files\\obs-studio\\bin\\64bit\\obs64.exe",
+      "WorkingDirectory": "C:\\Program Files\\obs-studio\\bin\\64bit"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\OBS Studio\\Uninstall.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files\\obs-studio\\uninstall.exe",
+      "WorkingDirectory": "C:\\Program Files\\obs-studio\\bin\\64bit"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\OneDrive for Business.lnk",
+      "Description": "Sync SharePoint documents to your computer and work with the content as if you were connected.",
+      "TargetPath": "C:\\Program Files\\Microsoft Office\\root\\Office16\\GROOVE.EXE",
+      "WorkingDirectory": ""
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\OneDrive.lnk",
+      "Description": "Keep your most important files with you wherever you go, on any device.",
+      "TargetPath": "C:\\Program Files\\Microsoft OneDrive\\OneDrive.exe",
+      "WorkingDirectory": ""
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\OneNote.lnk",
+      "Description": "Take notes and have them when you need them.",
+      "TargetPath": "C:\\Program Files\\Microsoft Office\\root\\Office16\\ONENOTE.EXE",
+      "WorkingDirectory": ""
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Opera Browser.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files\\Opera\\launcher.exe",
+      "WorkingDirectory": "C:\\Program Files\\Opera"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Oracle VM VirtualBox\\Oracle VM VirtualBox.lnk",
+      "Description": "Oracle VM VirtualBox",
+      "TargetPath": "C:\\Program Files\\Oracle\\VirtualBox\\VirtualBox.exe",
+      "WorkingDirectory": "C:\\Program Files\\Oracle\\VirtualBox\\"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Outlook.lnk",
+      "Description": "Manage your email, schedules, contacts, and to-dos.",
+      "TargetPath": "C:\\Program Files\\Microsoft Office\\root\\Office16\\OUTLOOK.EXE",
+      "WorkingDirectory": ""
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Ozuno\\RAPIX Addressing.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files (x86)\\Ozuno\\RapixAddressing\\RapixAddressing.exe",
+      "WorkingDirectory": "C:\\Program Files (x86)\\Ozuno\\RapixAddressing"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Ozuno\\RAPIX Desktop Config.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files (x86)\\Ozuno\\RapixDesktopConfig\\RapixDesktopConfig.exe",
+      "WorkingDirectory": "C:\\Program Files (x86)\\Ozuno\\RapixDesktopConfig"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Ozuno\\RAPIX Desktop.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files (x86)\\Ozuno\\RapixDesktop\\RapixDesktop.exe",
+      "WorkingDirectory": "C:\\Program Files (x86)\\Ozuno\\RapixDesktop"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Pale Moon.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files\\Pale Moon\\palemoon.exe",
+      "WorkingDirectory": "C:\\Program Files\\Pale Moon"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\PDF Architect 6.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files\\PDF Architect 6\\architect.exe",
+      "WorkingDirectory": "C:\\Program Files\\PDF Architect 6\\"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\PDF Architect 6\\PDF Architect 6.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files\\PDF Architect 6\\architect.exe",
+      "WorkingDirectory": ""
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\PDF Architect 6\\Uninstall or Modify PDF Architect 6.lnk",
+      "Description": "",
+      "TargetPath": "C:\\ProgramData\\PDF Architect 6\\Installation\\PDFArchitect6Installer.exe",
+      "WorkingDirectory": ""
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\PDF Architect 6\\Uninstall PDF Architect 6.lnk",
+      "Description": "",
+      "TargetPath": "C:\\ProgramData\\PDF Architect 6\\Installation\\PDFArchitect6Installer.exe",
+      "WorkingDirectory": ""
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\PDF Architect 8.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files\\PDF Architect 8\\architect-launcher.exe",
+      "WorkingDirectory": "C:\\Program Files\\PDF Architect 8\\"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\PDFCreator\\PDFCreator.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files\\PDFCreator\\PDFCreator.exe",
+      "WorkingDirectory": "C:\\Program Files\\PDFCreator\\"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Plantronics\\Plantronics Hub.lnk",
+      "Description": "Plantronics Hub Software",
+      "TargetPath": "C:\\Program Files (x86)\\Plantronics\\Spokes3G\\PLTHub.exe",
+      "WorkingDirectory": "C:\\Program Files (x86)\\Plantronics\\Spokes3G\\"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\PowerPoint.lnk",
+      "Description": "Design and deliver beautiful presentations with ease and confidence.",
+      "TargetPath": "C:\\Program Files\\Microsoft Office\\root\\Office16\\POWERPNT.EXE",
+      "WorkingDirectory": ""
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\PowerToys (Preview)\\PowerToys (Preview).lnk",
+      "Description": "PowerToys - Windows system utilities to maximize productivity",
+      "TargetPath": "C:\\Program Files\\PowerToys\\PowerToys.exe",
+      "WorkingDirectory": "C:\\Program Files\\PowerToys\\"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Python 3.10\\IDLE (Python 3.10 64-bit).lnk",
+      "Description": "Launches IDLE, the interactive environment for Python 3.10.",
+      "TargetPath": "C:\\Program Files\\Python310\\pythonw.exe",
+      "WorkingDirectory": "C:\\Program Files\\Python310\\"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Python 3.10\\Python 3.10 (64-bit).lnk",
+      "Description": "Launches the Python 3.10 interpreter.",
+      "TargetPath": "C:\\Program Files\\Python310\\python.exe",
+      "WorkingDirectory": "C:\\Program Files\\Python310\\"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Python 3.10\\Python 3.10 Module Docs (64-bit).lnk",
+      "Description": "Start the Python 3.10 documentation server.",
+      "TargetPath": "C:\\Program Files\\Python310\\python.exe",
+      "WorkingDirectory": "C:\\Program Files\\Python310\\"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Python 3.11\\IDLE (Python 3.11 64-bit).lnk",
+      "Description": "Launches IDLE, the interactive environment for Python 3.11.",
+      "TargetPath": "C:\\Program Files\\Python311\\pythonw.exe",
+      "WorkingDirectory": "C:\\Program Files\\Python311\\"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Python 3.11\\Python 3.11 (64-bit).lnk",
+      "Description": "Launches the Python 3.11 interpreter.",
+      "TargetPath": "C:\\Program Files\\Python311\\python.exe",
+      "WorkingDirectory": "C:\\Program Files\\Python311\\"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Python 3.11\\Python 3.11 Module Docs (64-bit).lnk",
+      "Description": "Start the Python 3.11 documentation server.",
+      "TargetPath": "C:\\Program Files\\Python311\\python.exe",
+      "WorkingDirectory": "C:\\Program Files\\Python311\\"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\R\\R 4.2.2.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files\\R\\R-4.2.2\\bin\\x64\\Rgui.exe",
+      "WorkingDirectory": "C:\\Program Files\\R\\R-4.2.2"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Remote Desktop.lnk",
+      "Description": "Microsoft Remote Desktop Client",
+      "TargetPath": "C:\\Program Files\\Remote Desktop\\msrdcw.exe",
+      "WorkingDirectory": "C:\\Program Files\\Remote Desktop\\"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Remote help\\Remote help.lnk",
+      "Description": "Remote help",
+      "TargetPath": "C:\\Program Files\\Remote help\\RemoteHelp.exe",
+      "WorkingDirectory": "C:\\Program Files\\Remote help\\"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Remote Utilities - Viewer\\Viewer.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files (x86)\\Remote Utilities - Viewer\\rutview.exe",
+      "WorkingDirectory": "C:\\Program Files (x86)\\Remote Utilities - Viewer\\"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\RingCentral.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files\\RingCentral\\RingCentral.exe",
+      "WorkingDirectory": "C:\\Program Files\\RingCentral\\"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\RStudio\\RStudio.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files\\RStudio\\bin\\rstudio.exe",
+      "WorkingDirectory": "C:\\Program Files\\RStudio"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\RStudio\\Uninstall.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files\\RStudio\\Uninstall.exe",
+      "WorkingDirectory": "C:\\Program Files\\RStudio"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\S3 Browser\\S3 Browser.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files\\S3 Browser\\s3browser-win32.exe",
+      "WorkingDirectory": "C:\\Program Files\\S3 Browser"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\ServiceFabricLocalClusterManager\\Service Fabric Local Cluster Manager.lnk",
+      "Description": "Manages local Service Fabric Cluster on this machine",
+      "TargetPath": "C:\\Program Files\\Microsoft SDKs\\Service Fabric\\Tools\\ServiceFabricLocalClusterManager\\ServiceFabricLocalClusterManager.exe",
+      "WorkingDirectory": "C:\\Program Files\\Microsoft SDKs\\Service Fabric\\Tools\\ServiceFabricLocalClusterManager\\"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\ShareX\\ShareX.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files\\ShareX\\ShareX.exe",
+      "WorkingDirectory": "C:\\Program Files\\ShareX"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\ShareX\\Uninstall ShareX.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files\\ShareX\\unins000.exe",
+      "WorkingDirectory": "C:\\Program Files\\ShareX"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\SketchUp 2022\\LayOut 2022.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files\\SketchUp\\SketchUp 2022\\LayOut\\LayOut.exe",
+      "WorkingDirectory": ""
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\SketchUp 2022\\SketchUp Pro 2022.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files\\SketchUp\\SketchUp 2022\\SketchUp.exe",
+      "WorkingDirectory": ""
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\SketchUp 2022\\Style Builder.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files\\SketchUp\\SketchUp 2022\\Style Builder\\Style Builder.exe",
+      "WorkingDirectory": ""
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Slack Technologies Inc\\Slack.lnk",
+      "Description": "Slack",
+      "TargetPath": "C:\\Program Files\\Slack\\slack.exe",
+      "WorkingDirectory": "C:\\Program Files\\Slack\\"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Sony XDCAM Drive\\XDCAM Drive Utility.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files (x86)\\Sony\\XDCAM Drive\\XDCAMDriveUtility.exe",
+      "WorkingDirectory": ""
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Sony\\Catalyst Browse\\Catalyst Browse.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files\\Sony\\Catalyst Browse\\Catalyst Browse.exe",
+      "WorkingDirectory": "C:\\Program Files\\Sony\\Catalyst Browse\\"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Sony\\Catalyst Prepare\\Catalyst Prepare.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files\\Sony\\Catalyst Prepare\\Catalyst Prepare.exe",
+      "WorkingDirectory": "C:\\Program Files\\Sony\\Catalyst Prepare\\"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\SQL Sentry Plan Explorer\\SQL Sentry Plan Explorer.lnk",
+      "Description": "SQL Sentry Plan Explorer",
+      "TargetPath": "C:\\Program Files\\SolarWinds\\SQL Sentry Plan Explorer\\SQL Sentry Plan Explorer.exe",
+      "WorkingDirectory": "C:\\Program Files\\SolarWinds\\SQL Sentry Plan Explorer\\"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\StartUp\\Check AJA device firmware.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files\\AJA\\windows\\Applications\\AJA ControlPanel.exe",
+      "WorkingDirectory": ""
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\StartUp\\ClickShare Launcher.lnk",
+      "Description": "ClickShare Launcher",
+      "TargetPath": "C:\\Program Files (x86)\\Barco\\ClickShare Extension Pack\\Launcher\\clicksharelauncher.exe",
+      "WorkingDirectory": "C:\\Program Files (x86)\\Barco\\ClickShare Extension Pack\\Launcher\\"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\StartUp\\Egnyte Desktop App.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files (x86)\\Egnyte Connect\\EgnyteClient.exe",
+      "WorkingDirectory": "C:\\Program Files (x86)\\Egnyte Connect\\"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\StartUp\\LiquidFiles Agent.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files (x86)\\LiquidFiles Windows Agent\\LiquidFilesWindowsAgent.exe",
+      "WorkingDirectory": "C:\\Program Files (x86)\\LiquidFiles Windows Agent\\"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\StartUp\\Service Fabric Local Cluster Manager.lnk",
+      "Description": "Manages local Service Fabric Cluster on this machine",
+      "TargetPath": "C:\\Program Files\\Microsoft SDKs\\Service Fabric\\Tools\\ServiceFabricLocalClusterManager\\ServiceFabricLocalClusterManager.exe",
+      "WorkingDirectory": "C:\\Program Files\\Microsoft SDKs\\Service Fabric\\Tools\\ServiceFabricLocalClusterManager\\"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\StartUp\\Tailscale.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files\\Tailscale\\tailscale-ipn.exe",
+      "WorkingDirectory": "C:\\Program Files\\Tailscale\\"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\StartUp\\Update UWP App.lnk",
+      "Description": "Update UWP App",
+      "TargetPath": "C:\\Program Files (x86)\\LastPass\\lpwinmetro\\AppxUpgradeUwp.exe",
+      "WorkingDirectory": ""
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Sync.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files (x86)\\Logitech\\LogiSync\\frontend\\Sync.exe",
+      "WorkingDirectory": "C:\\Program Files (x86)\\Logitech\\LogiSync\\frontend"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Tabular Editor\\Tabular Editor.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Windows\\Installer\\{1F8DC6CE-7AD5-4453-82A0-5C548CCEE049}\\_567187AD134BF5C508F35A.exe",
+      "WorkingDirectory": "C:\\Program Files (x86)\\Tabular Editor\\"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Tailscale.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files\\Tailscale\\tailscale-ipn.exe",
+      "WorkingDirectory": "C:\\Program Files\\Tailscale\\"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\TeamViewer.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files\\TeamViewer\\TeamViewer.exe",
+      "WorkingDirectory": "C:\\Program Files\\TeamViewer"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\TechSmith\\Camtasia 2022.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Windows\\Installer\\{B27D7CEB-AB23-4608-86AD-57B10BC790F8}\\CamtasiaIcons.exe",
+      "WorkingDirectory": "C:\\Program Files\\TechSmith\\Camtasia 2022\\"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\TechSmith\\Camtasia Recorder 2022.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Windows\\Installer\\{517F2225-FBA5-4C84-A091-4D4C4531FFBE}\\CamtasiaIcons.exe",
+      "WorkingDirectory": "C:\\Program Files\\TechSmith\\Camtasia 2022\\"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\TeraCopy.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files\\TeraCopy\\TeraCopy.exe",
+      "WorkingDirectory": "C:\\Program Files\\TeraCopy\\"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\TI Tools\\TI-Nspire and TI-Nspire CAS Teacher Software\\Run TI-Nspire CAS Teacher Software Diagnostics.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files (x86)\\TI Education\\TI-Nspire CAS Teacher Software\\TI-Diagnostics\\TI-Diagnostic.exe",
+      "WorkingDirectory": "C:\\Program Files (x86)\\TI Education\\TI-Nspire CAS Teacher Software\\TI-Diagnostics\\"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\TI Tools\\TI-Nspire and TI-Nspire CAS Teacher Software\\Run TI-Nspire Teacher Software Diagnostics.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files (x86)\\TI Education\\TI-Nspire Teacher Software\\TI-Diagnostics\\TI-Diagnostic.exe",
+      "WorkingDirectory": "C:\\Program Files (x86)\\TI Education\\TI-Nspire Teacher Software\\TI-Diagnostics\\"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\TI Tools\\TI-Nspire and TI-Nspire CAS Teacher Software\\TI-Nspire CAS Teacher Software.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files (x86)\\TI Education\\TI-Nspire CAS Teacher Software\\TI-Nspire CAS Teacher Software.exe",
+      "WorkingDirectory": "C:\\Program Files (x86)\\TI Education\\TI-Nspire CAS Teacher Software\\"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\TI Tools\\TI-Nspire and TI-Nspire CAS Teacher Software\\TI-Nspire Teacher Software.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files (x86)\\TI Education\\TI-Nspire Teacher Software\\TI-Nspire Teacher Software.exe",
+      "WorkingDirectory": "C:\\Program Files (x86)\\TI Education\\TI-Nspire Teacher Software\\"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\TI Tools\\TI-SmartView TI-30X_TI-34 MV\\TI-SmartView TI-30X_TI-34 MV .lnk",
+      "Description": "",
+      "TargetPath": "C:\\Windows\\Installer\\{0F189172-9B47-41AE-A012-3707A5AF48D5}\\Icon0F189172.exe",
+      "WorkingDirectory": ""
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\TI-Nspire CX CAS Student Software\\TI-Diagnostics.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files\\TI Education\\TI-Nspire CX CAS Student Software\\apps\\TI-Diagnostics\\TI-Diagnostic.exe",
+      "WorkingDirectory": "C:\\Program Files\\TI Education\\TI-Nspire CX CAS Student Software\\apps\\TI-Diagnostics\\"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\TI-Nspire CX CAS Student Software\\TI-Nspire CX CAS Student Software.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files\\TI Education\\TI-Nspire CX CAS Student Software\\TI-Nspire CX CAS Student Software.exe",
+      "WorkingDirectory": "C:\\Program Files\\TI Education\\TI-Nspire CX CAS Student Software\\"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\TI-Nspire CX Premium Teacher Software\\TI-Diagnostics.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files\\TI Education\\TI-Nspire CX CAS Premium Teacher Software\\apps\\TI-Diagnostics\\TI-Diagnostic.exe",
+      "WorkingDirectory": "C:\\Program Files\\TI Education\\TI-Nspire CX CAS Premium Teacher Software\\apps\\TI-Diagnostics\\"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\TI-Nspire CX Premium Teacher Software\\TI-Nspire CX CAS Premium Teacher Software.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files\\TI Education\\TI-Nspire CX CAS Premium Teacher Software\\TI-Nspire CX CAS Premium Teacher Software.exe",
+      "WorkingDirectory": "C:\\Program Files\\TI Education\\TI-Nspire CX CAS Premium Teacher Software\\"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\TI-Nspire CX Premium Teacher Software\\TI-Nspire CX Premium Teacher Software.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files\\TI Education\\TI-Nspire CX Premium Teacher Software\\TI-Nspire CX Premium Teacher Software.exe",
+      "WorkingDirectory": "C:\\Program Files\\TI Education\\TI-Nspire CX Premium Teacher Software\\"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\TI-Nspire CX Teacher Software\\TI-Diagnostics for TI-Nspire CX CAS Teacher Software.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files (x86)\\TI Education\\TI-Nspire CX CAS Teacher Software\\TI-Diagnostics\\TI-Diagnostic.exe",
+      "WorkingDirectory": "C:\\Program Files (x86)\\TI Education\\TI-Nspire CX CAS Teacher Software\\TI-Diagnostics\\"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\TI-Nspire CX Teacher Software\\TI-Diagnostics for TI-Nspire CX Teacher Software.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files (x86)\\TI Education\\TI-Nspire CX Teacher Software\\TI-Diagnostics\\TI-Diagnostic.exe",
+      "WorkingDirectory": "C:\\Program Files (x86)\\TI Education\\TI-Nspire CX Teacher Software\\TI-Diagnostics\\"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\TI-Nspire CX Teacher Software\\TI-Nspire CX CAS Teacher Software.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files (x86)\\TI Education\\TI-Nspire CX CAS Teacher Software\\TI-Nspire CX CAS Teacher Software.exe",
+      "WorkingDirectory": "C:\\Program Files (x86)\\TI Education\\TI-Nspire CX CAS Teacher Software\\"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\TI-Nspire CX Teacher Software\\TI-Nspire CX Teacher Software.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files (x86)\\TI Education\\TI-Nspire CX Teacher Software\\TI-Nspire CX Teacher Software.exe",
+      "WorkingDirectory": "C:\\Program Files (x86)\\TI Education\\TI-Nspire CX Teacher Software\\"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\VideoLAN\\VLC media player - reset preferences and cache files.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files (x86)\\VideoLAN\\VLC\\vlc.exe",
+      "WorkingDirectory": "C:\\Program Files (x86)\\VideoLAN\\VLC"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\VideoLAN\\VLC media player skinned.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files (x86)\\VideoLAN\\VLC\\vlc.exe",
+      "WorkingDirectory": "C:\\Program Files (x86)\\VideoLAN\\VLC"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\VideoLAN\\VLC media player.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files (x86)\\VideoLAN\\VLC\\vlc.exe",
+      "WorkingDirectory": "C:\\Program Files (x86)\\VideoLAN\\VLC"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Visual Studio 2022.lnk",
+      "Description": "Microsoft Visual Studio 2022",
+      "TargetPath": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\devenv.exe",
+      "WorkingDirectory": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Visual Studio Code\\Visual Studio Code.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files\\Microsoft VS Code\\Code.exe",
+      "WorkingDirectory": "C:\\Program Files\\Microsoft VS Code"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Visual Studio Installer.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files (x86)\\Microsoft Visual Studio\\Installer\\setup.exe",
+      "WorkingDirectory": "C:\\Program Files (x86)\\Microsoft Visual Studio\\Installer"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Vivaldi.lnk",
+      "Description": "Access the Internet",
+      "TargetPath": "C:\\Program Files\\Vivaldi\\Application\\vivaldi.exe",
+      "WorkingDirectory": "C:\\Program Files\\Vivaldi\\Application"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Windows PowerShell\\Windows PowerShell ISE (x86).lnk",
+      "Description": "Windows PowerShell Integrated Scripting Environment. Performs object-based (command-line) functions",
+      "TargetPath": "C:\\Windows\\syswow64\\WindowsPowerShell\\v1.0\\PowerShell_ISE.exe",
+      "WorkingDirectory": "%HOMEDRIVE%%HOMEPATH%"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Windows PowerShell\\Windows PowerShell ISE.lnk",
+      "Description": "Windows PowerShell Integrated Scripting Environment. Performs object-based (command-line) functions",
+      "TargetPath": "C:\\Windows\\system32\\WindowsPowerShell\\v1.0\\PowerShell_ISE.exe",
+      "WorkingDirectory": "%HOMEDRIVE%%HOMEPATH%"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\WinMerge\\WinMerge.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files\\WinMerge\\WinMergeU.exe",
+      "WorkingDirectory": "C:\\Program Files\\WinMerge"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\WinRAR\\WinRAR.lnk",
+      "Description": "Process RAR, ZIP and other archive formats",
+      "TargetPath": "C:\\Program Files\\WinRAR\\WinRAR.exe",
+      "WorkingDirectory": "C:\\Windows\\system32\\config\\systemprofile\\Desktop"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\WinSCP.lnk",
+      "Description": "WinSCP: SFTP, FTP, WebDAV and SCP client",
+      "TargetPath": "C:\\Program Files (x86)\\WinSCP\\WinSCP.exe",
+      "WorkingDirectory": "C:\\Program Files (x86)\\WinSCP"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\WireGuard.lnk",
+      "Description": "WireGuard: Fast, Modern, Secure VPN Tunnel",
+      "TargetPath": "C:\\Program Files\\WireGuard\\wireguard.exe",
+      "WorkingDirectory": "C:\\Program Files\\WireGuard\\"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Wireshark.lnk",
+      "Description": "The Wireshark Network Protocol Analyzer",
+      "TargetPath": "C:\\Program Files\\Wireshark\\Wireshark.exe",
+      "WorkingDirectory": "C:\\Program Files\\Wireshark"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Word.lnk",
+      "Description": "Create beautiful documents, easily work with others, and enjoy the read.",
+      "TargetPath": "C:\\Program Files\\Microsoft Office\\root\\Office16\\WINWORD.EXE",
+      "WorkingDirectory": ""
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\XML Copy Editor\\Uninstall XML Copy Editor.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files\\XML Copy Editor\\unins000.exe",
+      "WorkingDirectory": "C:\\Program Files\\XML Copy Editor"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\XML Copy Editor\\XML Copy Editor.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files\\XML Copy Editor\\xmlcopyeditor.exe",
+      "WorkingDirectory": "C:\\Program Files\\XML Copy Editor"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\ZebraDesigner 3\\ZebraDesigner 3.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files\\Zebra Technologies\\ZebraDesigner 3\\bin.net\\ZebraDesigner.exe",
+      "WorkingDirectory": "C:\\Program Files\\Zebra Technologies\\ZebraDesigner 3\\bin.net"
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Zoom\\Zoom.lnk",
+      "Description": "Zoom",
+      "TargetPath": "C:\\Program Files\\Zoom\\bin\\Zoom.exe",
+      "WorkingDirectory": ""
+    },
+    {
+      "Fullname": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Zotero.lnk",
+      "Description": "",
+      "TargetPath": "C:\\Program Files (x86)\\Zotero\\zotero.exe",
+      "WorkingDirectory": "C:\\Program Files (x86)\\Zotero"
+    }
+  ]
+  
