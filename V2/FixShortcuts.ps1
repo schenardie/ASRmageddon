@@ -23,7 +23,7 @@
 #>
 
 
-Param([Parameter(Mandatory = $false)][String[]]$URL = "https://raw.githubusercontent.com/schenardie/ASRmageddon/main/AppList.json")
+Param([Parameter(Mandatory = $false)][String[]]$URL = "https://raw.githubusercontent.com/schenardie/ASRmageddon/main/V2/AppList.json")
 
 $Programs = Invoke-RestMethod -Uri "$URL" -Headers @{"Cache-Control" = "no-cache" }
 $Programs = $Programs | Select-Object -Skip 1
